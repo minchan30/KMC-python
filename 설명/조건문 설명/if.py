@@ -6,9 +6,9 @@
 # 비교
 # 비교 연산자 
 # a == b : a와 b 가 같다
-#a != b : a와 b가 다르다 (=/=)
-#a > b, a < b
-#a >= b, a <= b
+# a != b : a와 b가 다르다 (=/=)
+# a > b, a < b
+# a >= b, a <= b
 
 # 논리식
 # 논리 연산자
@@ -54,7 +54,7 @@
 # x = 'asdfa'
 # if x == 10:
 #     print('hello')
-#elif x > 10:
+# elif x > 10:
 #    print('world')
 # elif x < 10:
 #     print('hi')
