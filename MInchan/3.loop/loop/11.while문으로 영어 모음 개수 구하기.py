@@ -16,3 +16,7 @@ while i <= len(s) - 1 :
 
 print()
 print('모음 개수 : %d' % count)
+
+#실행결과
+# 모음 : o i i e u e a u e o i o a i e 
+# 모음 개수 : 15
