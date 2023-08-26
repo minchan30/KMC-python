@@ -7,3 +7,14 @@ for key in scores:
     
     print('%s : %d' %(key, scores[key]))
 
+avg = sum / len(scores)
+
+print('합계 : %d , 평균 : %.2f' % (sum , avg))
+
+# 실행결과
+# 김채린 : 85
+# 박수정 : 98
+# 함소희 : 94
+# 안예린 : 90
+# 연수진 : 93
+# 합계 : 460 , 평균 : 92.00
