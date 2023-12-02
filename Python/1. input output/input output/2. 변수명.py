@@ -17,9 +17,6 @@ print(school)
 name = '홍길동'
 print(name)
 
-# 실행결과
-# 홍길동
-
 # 24cafe = '커피'
 # SyntaxError: invalid syntax
 
