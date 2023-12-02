@@ -3,11 +3,22 @@ num2 = 12
 result = num1 - num2
 print(result)
 
+# 실행결과
+# 3
+
+
 school = '한국대학교'
 print(school)
 
+# 실행결과
+# 한국대학교
+
+
 name = '홍길동'
 print(name)
+
+# 실행결과
+# 홍길동
 
 # 24cafe = '커피'
 # SyntaxError: invalid syntax
